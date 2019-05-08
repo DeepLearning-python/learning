@@ -1,0 +1,22 @@
+conda  config --add channels intel
+conda search --full-name python
+conda  create --name intelpy3test --channel intel --override-channels intelpython3_core
+source  activate intelpy3test
+conda install scikit-learn --channel intel --override-channels
+pip install pyrealsense2
+
+
+Examples
+https://github.com/IntelRealSense/librealsense/tree/master/wrappers/python/examples
+
+Jupyter notebooks
+https://github.com/IntelRealSense/librealsense/tree/jupyter/notebooks
+https://github.com/dorodnic/binder_test/blob/master/pointcloud.ipynb
+
+https://unanancyowen.github.io/librealsense2_apireference/md__c_1_librealsense-2_813_80_include_readme.html
+
+------
+https://pyrealsense.readthedocs.io/en/master/index.html
+https://libraries.io/pypi/pyrealsense2
+
+https://01.org/openvinotoolkit
