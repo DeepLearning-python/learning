@@ -1,10 +1,12 @@
+Anaconda installtion
+--------------------
 conda  config --add channels intel
 conda search --full-name python
 conda  create --name intelpy3test --channel intel --override-channels intelpython3_core
 source  activate intelpy3test
 conda install scikit-learn --channel intel --override-channels
 pip install pyrealsense2
-
+pip install opencv-python
 
 Examples
 https://github.com/IntelRealSense/librealsense/tree/master/wrappers/python/examples
@@ -28,3 +30,8 @@ https://github.com/seraj94ai/Train-Object-Detection-Classifier
 
 https://www.youtube.com/watch?v=Rgpfk6eYxJA
 https://github.com/spmallick/learnopencv/tree/master/YOLOv3-Training-Snowman-Detector
+
+
+realsense SDK
+------------
+https://www.intelrealsense.com/developers/
