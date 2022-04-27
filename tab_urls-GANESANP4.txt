@@ -289,6 +289,9 @@ https://www.amazon.sg/seeed-studio-Intelligent-Avoidance-Education/dp/B07H7X3SFF
 GitHub - openvinotoolkit/cvat: Powerful and efficient Computer Vision Annotation Tool (CVAT)
 https://github.com/openvinotoolkit/cvat
 
+GitHub - UKPLab/EasyNMT: Easy to use, state-of-the-art Neural Machine Translation for 100+ languages
+https://github.com/UKPLab/EasyNMT
+
 Learn Modern C++ by Building an Audio Plugin (w/ JUCE Framework) - Full Course - YouTube
 https://www.youtube.com/watch?v=i_Iq4_Kd7Rc
 
@@ -423,9 +426,6 @@ https://www.youtube.com/c/TechWithTim/playlists
 
 Instance Segmentation using Mask-RCNN with PixelLib and Python - YouTube
 https://www.youtube.com/watch?v=i_-ud01wFhc
-
-YouTube
-https://www.youtube.com/
 
 GitHub - ayoolaolafenwa/PixelLib: Visit PixelLib's official documentation https://pixellib.readthedocs.io/en/latest/
 https://github.com/ayoolaolafenwa/PixelLib
@@ -709,10 +709,7 @@ https://www.youtube.com/watch?v=3oWizJ4g3MU
 Replay of Data Science Competition Opening Ceremony and Workshop - YouTube
 https://www.youtube.com/watch?v=CXlHqAQOipM
 
-Lecture 4: Transfer Learning and Transformers (Full Stack Deep Learning - Spring 2021) - YouTube
-https://www.youtube.com/watch?v=lOYT3-UbUvw
-
-Topic Modeling with BERT Transformers - EXPLAINED! - YouTube
+BERT Transformers for Language - EXPLAINED! - YouTube
 https://www.youtube.com/watch?v=TLPmlVeEf1k
 
 Tecton - YouTube
@@ -1018,7 +1015,7 @@ https://informatics.tuwien.ac.at/news/1938
 5 Tools For Dips, Crashes, and Volatility for TVC:VIX by TradingView — TradingView
 https://www.tradingview.com/chart/VIX/vEYLqSWG-5-Tools-For-Dips-Crashes-and-Volatility/
 
-XRPUSD 1.10472 ▲ +1.43% Crypto
+M_M 867.55000 ▲ +3.11% Crypto
 https://www.tradingview.com/chart/pvvVrwqP/
 
 Roboflow Dashboard
@@ -1270,7 +1267,7 @@ https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/videos
 Transfer Learning in Computer Vision | What, How, Why - YouTube
 https://www.youtube.com/watch?v=aQM7M985X48
 
-2.1 Importance of Interpretability | Interpretable Machine Learning
+3.1 Importance of Interpretability | Interpretable Machine Learning
 https://christophm.github.io/interpretable-ml-book/interpretability-importance.html
 
 elder care service chennai - Google Search
@@ -1443,84 +1440,6 @@ https://docs.opencv.org/3.4/dc/d6b/group__video__track.html
 
 GitHub - HRNet/HRNet-Human-Pose-Estimation: This repo is copied from https://github.com/leoxiaobin/deep-high-resolution-net.pytorch
 https://github.com/HRNet/HRNet-Human-Pose-Estimation
-
-Automating Machine Learning tasks using EvalML Library
-https://www.analyticsvidhya.com/blog/2021/04/automating-machine-learning-tasks-using-evalml-library/
-
-hpcv
-https://github-reh.azc.ext.hp.com/hpcv
-
-how object segmentation are written in dataset json files? · Issue #111 · cocodataset/cocoapi · GitHub
-https://github.com/cocodataset/cocoapi/issues/111
-
-cocostuffapi/pngToCocoResultDemo.py at master · nightrome/cocostuffapi · GitHub
-https://github.com/nightrome/cocostuffapi/blob/master/PythonAPI/cocostuff/pngToCocoResultDemo.py
-
-cocoapi/mask.py at master · cocodataset/cocoapi · GitHub
-https://github.com/cocodataset/cocoapi/blob/master/PythonAPI/pycocotools/mask.py#L93
-
-opencv-python documentation - Google Search
-https://www.google.com/search?q=opencv-python+documentation&rlz=1C1CHBD_enSG745SG745&oq=opencv-python+doc&aqs=chrome.0.0j69i57j0l2j69i65l3j69i60.8019j0j4&sourceid=chrome&ie=UTF-8
-
-GitHub - UKPLab/EasyNMT: Easy to use, state-of-the-art Neural Machine Translation for 100+ languages
-https://github.com/UKPLab/EasyNMT
-
-OpenCV: Affine Transformations
-https://docs.opencv.org/3.4/d4/d61/tutorial_warp_affine.html
-
-(17) Search all Jobs | LinkedIn
-https://www.linkedin.com/jobs/search/?currentJobId=2406615013&jobPostingId=2499108840&pivotType=similarJobs&start=25
-
-Apache Cordova
-https://cordova.apache.org/
-
-image_registration Package — image_registration v0.2.5.dev328
-https://image-registration.readthedocs.io/en/latest/image_registration.html
-
-image registration python including rotation - Google Search
-https://www.google.com/search?q=image+registration+python+including+rotation&rlz=1C1CHBD_enSG745SG745&oq=image+registration+python+including+rotation&aqs=chrome..69i57.3896j0j7&sourceid=chrome&ie=UTF-8
-
-Image registration in python - Stack Overflow
-https://stackoverflow.com/questions/11104551/image-registration-in-python
-
-Using Polar and Log-Polar Transformations for Registration — skimage v0.18.0 docs
-https://scikit-image.org/docs/stable/auto_examples/registration/plot_register_rotation.html
-
-General examples — skimage v0.18.0 docs
-https://scikit-image.org/docs/stable/auto_examples/index.html
-
-ORB feature detector and binary descriptor — skimage v0.18.0 docs
-https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_orb.html#sphx-glr-auto-examples-features-detection-plot-orb-py
-
-Blob Detection — skimage v0.18.0 docs
-https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_blob.html#sphx-glr-auto-examples-features-detection-plot-blob-py
-
-Multidimensional image processing (scipy.ndimage) — SciPy v1.6.3 Reference Guide
-https://docs.scipy.org/doc/scipy/reference/ndimage.html
-
-scipy.ndimage.map_coordinates — SciPy v1.6.3 Reference Guide
-https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.map_coordinates.html#scipy.ndimage.map_coordinates
-
-scipy.ndimage.rotate — SciPy v1.6.3 Reference Guide
-https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.rotate.html#scipy.ndimage.rotate
-
-Feature Matching — OpenCV-Python Tutorials 1 documentation
-https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_matcher/py_matcher.html
-
-Types of homographies — skimage v0.19.0.dev0 docs
-https://scikit-image.org/docs/dev/auto_examples/transform/plot_transform_types.html#sphx-glr-auto-examples-transform-plot-transform-types-py
-
-GitHub - scikit-image/scikit-image: Image processing in Python
-https://github.com/scikit-image/scikit-image
-
-NVIDIA Releases Updates to CUDA-X AI Software | NVIDIA Developer Blog
-https://developer.nvidia.com/blog/nvidia-releases-updates-to-cuda-x-ai-software-2/?mkt_tok=MTU2LU9GTi03NDIAAAF84f7bft2iaZczAYEpXuFJtbhARbP3FHI8jMxiJvQ9eBWBdWUlsaozuNKk-YRyqig805Ko7ciSJ6u3Vg-QsZnIdp5C0dcrTgs_K79PEpp_ZkLK7ocf
-
-Diamond Hall Meditation Music_Brahmakumaris - YouTube
-https://www.youtube.com/watch?v=NPrGbx0UuqQ
-
-Rigid Body Transformations - YouTube
-https://www.youtube.com/watch?v=H5gSlSWjt0s
 
 Autoencoder In PyTorch - Theory & Implementation - YouTube
 https://www.youtube.com/watch?v=zp8clK9yCro
@@ -2818,6 +2737,9 @@ https://www.youtube.com/results?search_query=Homography+
 Image Transformations - Computer Vision and OpenCV C++ - YouTube
 https://www.youtube.com/watch?v=nBB2L419EfI
 
+Introduction to Computer Vision and OpenCV C++ - OpenCV Tutorial - YouTube
+https://www.youtube.com/watch?v=uJrwLq_BKPY&list=PLkmvobsnE0GHMmTF7GTzJnCISue1L9fJn
+
 localhost
 http://localhost:8888/tree
 
@@ -3337,14 +3259,14 @@ https://arxiv.org/pdf/2002.04688.pdf
 PyTorch Lightning Tutorials
 https://www.pytorchlightning.ai/tutorials
 
-YouTube
-https://www.youtube.com/
-
 Episode 1: Training a classification model on MNIST with PyTorch - YouTube
 https://www.youtube.com/watch?v=OMDn66kM9Qc
 
-Pytorch TensorBoard Tutorial - YouTube
-https://www.youtube.com/watch?v=RLqsxWaQdHE
+Pytorch RNN example (Recurrent Neural Network) - YouTube
+https://www.youtube.com/watch?v=Gl2WXLIMvKA&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=11
+
+Aladdin Persson - YouTube
+https://www.youtube.com/c/AladdinPersson/videos
 
 GitHub - robustness-gym/summvis: SummVis is an interactive visualization tool for text summarization.
 https://github.com/robustness-gym/summvis
@@ -3355,16 +3277,7 @@ http://thinklab-sg:12000/lab?
 Python : How to Check if an item exists in list ? | Search by Value or Condition – thispointer.com
 https://thispointer.com/python-how-to-check-if-an-item-exists-in-list-search-by-value-or-condition/
 
-YouTube
-https://www.youtube.com/
-
-#30 minutes #Bliss #Brahma kumaris #Meditation music - YouTube
-https://www.youtube.com/watch?v=3aS7GmdVYu0
-
-Plotting a list of (x, y) coordinates in python matplotlib - Stack Overflow
-https://stackoverflow.com/questions/21519203/plotting-a-list-of-x-y-coordinates-in-python-matplotlib
-
-Tutorials — Matplotlib 3.4.1 documentation
+Tutorials — Matplotlib 3.5.1 documentation
 https://matplotlib.org/stable/tutorials/index.html
 
 Issues · pandiang / Learn GitLab · GitLab
@@ -3419,13 +3332,13 @@ deep learning model to align similar images - Google Search
 https://www.google.com/search?q=deep+learning+model+to+align+similar+images&rlz=1C1CHBD_enSG745SG745&oq=deep+learning+model+to+align+similar+images&aqs=chrome..69i57.18743j0j7&sourceid=chrome&ie=UTF-8
 
 Technical Blog | Homepage - Sicara
-https://www.sicara.ai/blog/en/category/computer-vision
+https://www.sicara.ai/blog/category/computer-vision
 
 1606.03798.pdf
 https://arxiv.org/pdf/1606.03798.pdf
 
 Deformable Image Registration: A deep learning based approach | Sicara
-https://www.sicara.ai/blog/en/deformable-image-registration
+https://www.sicara.ai/blog/deformable-image-registration
 
 GitHub - voxelmorph/voxelmorph: Unsupervised Learning for Image Registration
 https://github.com/voxelmorph/voxelmorph
@@ -3439,7 +3352,7 @@ https://arxiv.org/pdf/1908.02738.pdf
 1706.05218.pdf
 https://arxiv.org/pdf/1706.05218.pdf
 
-JupyterLab
+thinklab-sg
 http://thinklab-sg:12000/lab?
 
 Friday Morning Jazz - Good Mood Jazz and Bossa Nova Music for Happy Day - YouTube
@@ -3447,6 +3360,126 @@ https://www.youtube.com/watch?v=OIRVg2Kc-UM
 
 python - Resize an image without distortion OpenCV - Stack Overflow
 https://stackoverflow.com/questions/44650888/resize-an-image-without-distortion-opencv
+
+PyTorch Lightning Tutorials
+https://www.pytorchlightning.ai/tutorials
+
+Introduction Guide — Lightning-Bolts 0.5.0 documentation
+https://lightning-bolts.readthedocs.io/en/stable/introduction_guide.html#regular-pytorch
+
+GitHub - PyTorchLightning/lightning-bolts: Toolbox of models, callbacks, and datasets for AI/ML researchers.
+https://github.com/PyTorchLightning/lightning-bolts
+
+GitHub - pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+https://github.com/pytorch/pytorch
+
+torch.optim — PyTorch master documentation
+https://pytorch.org/docs/master/optim.html
+
+STL-10 dataset
+https://cs.stanford.edu/~acoates/stl10/
+
+vision/resnet.py at main · pytorch/vision · GitHub
+https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py
+
+Autoencoders — Lightning-Bolts 0.3.2 documentation
+https://pytorch-lightning-bolts.readthedocs.io/en/latest/autoencoders.html#
+
+GitHub - lexfridman/mit-deep-learning: Tutorials, assignments, and competitions for MIT Deep Learning related courses.
+https://github.com/lexfridman/mit-deep-learning
+
+MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman
+https://deeplearning.mit.edu/
+
+MIT 6.S094: Convolutional Neural Networks for End-to-End Learning of the Driving Task - YouTube
+https://www.youtube.com/watch?v=U1toUkZw6VI&list=PLoGCqNg8995cMyxwCkMzC3pJakktXn6Ow&index=4
+
+'How neural networks learn' - Part I: Feature Visualization - YouTube
+https://www.youtube.com/watch?v=McgxRxi2Jqo
+
+Deep Visualization Toolbox - YouTube
+https://www.youtube.com/watch?v=AgkfIQ4IGaM
+
+GitHub - utkuozbulak/pytorch-cnn-visualizations: Pytorch implementation of convolutional neural network visualization techniques
+https://github.com/utkuozbulak/pytorch-cnn-visualizations#gradient-visualization
+
+C 8.9 | Faster RCNN Network - Code Walkthrough | CNN | Object Detection | Machine learning | EvODN - YouTube
+https://www.youtube.com/watch?v=09DRku3USAs&list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S&index=88
+
+A visual and intuitive understanding of deep learning - YouTube
+https://www.youtube.com/watch?v=Oqm9vsf_hvU
+
+Yann LeCun - How Does The Brain Learn So Quickly? - YouTube
+https://www.youtube.com/watch?v=WUZhLzaD3b8
+
+GitHub - timeseriesAI/tsai: Time series Timeseries Deep Learning Machine Learning Pytorch fastai | State-of-the-art Deep Learning library for Time Series and Sequences in Pytorch / fastai
+https://github.com/timeseriesAI/tsai
+
+3D Visualization of a Convolutional Neural Network
+https://www.cs.ryerson.ca/~aharley/vis/conv/
+
+Self-supervised learning: The dark matter of intelligence
+https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/
+
+Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning | Lex Fridman Podcast #258 - YouTube
+https://www.youtube.com/watch?v=SGzMElJ11Cc
+
+Yann LeCun - Self-Supervised Learning: The Dark Matter of Intelligence (FAIR Blog Post Explained) - YouTube
+https://www.youtube.com/watch?v=Ag1bw8MfHGQ
+
+01 – History and resources - YouTube
+https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI
+
+Yann LeCun - YouTube
+https://www.youtube.com/results?search_query=Yann+LeCun
+
+Yann LeCun - How does the brain learn so much so quickly? (CCN 2017) - YouTube
+https://www.youtube.com/watch?v=cWzi38-vDbE
+
+1. Introduction and Scope - YouTube
+https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
+
+My Journey to Deep Learning - YouTube
+https://www.youtube.com/watch?v=0MI0Te7EgtA
+
+DeepLearningAI - YouTube
+https://www.youtube.com/c/Deeplearningai/playlists
+
+GitHub - sthalles/SimCLR: PyTorch implementation of SimCLR: A Simple Framework for Contrastive Learning of Visual Representations
+https://github.com/sthalles/SimCLR
+
+GitHub - facebookresearch/barlowtwins: PyTorch implementation of Barlow Twins.
+https://github.com/facebookresearch/barlowtwins
+
+Barlow Twins Explained | Papers With Code
+https://paperswithcode.com/method/barlow-twins
+
+Ishan Misra: Self-Supervised Deep Learning in Computer Vision | Lex Fridman Podcast #206 - YouTube
+https://www.youtube.com/watch?v=FUS6ceIvUnI
+
+#55 Self-Supervised Vision Models (Dr. Ishan Misra - FAIR). - YouTube
+https://www.youtube.com/watch?v=EXJmodhu4_4
+
+GitHub - justinbellucci/cnn-visualizations-pytorch: Exploration of various methods to visualize layers of deep Convolutional Neural Networks using Pytorch.
+https://github.com/justinbellucci/cnn-visualizations-pytorch
+
+GitHub - vturrisi/solo-learn: solo-learn: a library of self-supervised methods for visual representation learning powered by Pytorch Lightning
+https://github.com/vturrisi/solo-learn
+
+2105.04906v3.pdf
+https://arxiv.org/pdf/2105.04906v3.pdf
+
+GitHub - AnnaManasyan/VICReg: An easy-to-use implementation of VICReg in Pytorch.
+https://github.com/AnnaManasyan/VICReg
+
+PyTorch Lecture 01: Overview - YouTube
+https://www.youtube.com/watch?v=SKq-pmkekTk&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m
+
+GLOM: How to represent part-whole hierarchies in a neural network (Geoff Hinton's Paper Explained) - YouTube
+https://www.youtube.com/watch?v=cllFzkvrYmE
+
+Lecture 1: Deep Learning Fundamentals (Full Stack Deep Learning - Spring 2021) - YouTube
+https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv
 
 Tracking People by a Mobile Robot from 2D LIDAR - YouTube
 https://www.youtube.com/watch?v=Qa6eEJzUlRg
@@ -3559,7 +3592,7 @@ https://www.youtube.com/watch?v=WQeoO7MI0Bs
 Monday Morning Jazz - Happy Monday Jazz Cafe and Bossa Nova Music for Fresh Start - YouTube
 https://www.youtube.com/watch?v=hc-VPCvoJOU
 
-matplotlib.pyplot.scatter — Matplotlib 3.4.3 documentation
+matplotlib.pyplot.scatter — Matplotlib 3.5.1 documentation
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html#matplotlib.pyplot.scatter
 
 Fast performance tips — PyTorch Lightning 1.3.0dev documentation
@@ -3796,8 +3829,8 @@ https://www.youtube.com/watch?v=FZFQLpqMVDQ&list=PL7G_dYDaMIlPwJHWKR14QG-YAJsL-U
 Frugal innovation - Wikipedia
 https://en.wikipedia.org/wiki/Frugal_innovation
 
-Onepanel | The open and extensible IDE for computer vision
-https://www.onepanel.ai/
+Onepanel | The open source, end-to-end computer vision platform
+https://docs.onepanel.ai/
 
 GitHub - onepanelio/onepanel: The open and extensible end-to-end computer vision platform with built-in modules for model building, automated labeling, data processing, model training, hyperparameter tuning, workflow orchestration and serverless inference.
 https://github.com/onepanelio/onepanel
@@ -4270,11 +4303,11 @@ https://sigsep.github.io/open-unmix/#%F0%9F%8F%81-getting-started
 TransUNet: Transformers make strong encoders for Medical image segmentation - YouTube
 https://www.youtube.com/watch?v=jKBJITQ8xJY
 
-New Tab
-chrome://newtab/
-
 Deep Learning for tabular data - #DevFestVeneto19 - YouTube
 https://www.youtube.com/watch?v=nQgUt_uADSE
+
+Yann LeCun - Self-Supervised Learning: The Dark Matter of Intelligence (FAIR Blog Post Explained) - YouTube
+https://www.youtube.com/watch?v=Ag1bw8MfHGQ
 
 Swagatham Krishna I Sooryagayathri I Oothukkadu Venkatasubba Iyer - YouTube
 https://www.youtube.com/watch?v=Dk5br82qiIs
@@ -4471,8 +4504,8 @@ https://www.youtube.com/c/HiteshChoudharydotcom/playlists
 YouTube
 https://www.youtube.com/
 
-adVAE/self_adVAE-test.ipynb at master · WangXuhongCN/adVAE · GitHub
-https://github.com/WangXuhongCN/adVAE/blob/master/self_adVAE-test.ipynb
+GitHub - WangXuhongCN/adVAE: PyTorch implementation of paper: adVAE: a Self-adversarial Variational Autoencoder with Gaussian Anomaly Prior Knowledge for Anomaly Detection
+https://github.com/WangXuhongCN/adVAE
 
 adVAE/tf_process.py at 51a3ddb3ca3a197db93747e10856d7b7bc4e4b4b · YeongHyeon/adVAE · GitHub
 https://github.com/YeongHyeon/adVAE/blob/51a3ddb3ca3a197db93747e10856d7b7bc4e4b4b/source/tf_process.py#L104
@@ -4861,8 +4894,8 @@ https://cds.nyu.edu/deep-learning/
 NYU-DLSP21/10-autoencoder.ipynb at master · Atcold/NYU-DLSP21 · GitHub
 https://github.com/Atcold/NYU-DLSP21/blob/master/10-autoencoder.ipynb
 
-Mind Refreshing walk in Kerala Monsoon Rain | ASMR Rain and Thunder sounds | 4K60fps - YouTube
-https://www.youtube.com/watch?v=wtyPEhr0eL0&list=PLvFFO2bJlAuHGq0M59UiHPoDAyVT7wuMm&index=4
+A rainy day walk in heavy monsoon rain in Kochi, Kerala | ASMR Rain sounds for sleep and meditation - YouTube
+https://www.youtube.com/watch?v=x03v9QQMa08&list=PLvFFO2bJlAuHGq0M59UiHPoDAyVT7wuMm&index=13
 
 GitHub - lschmiddey/Autoencoder: Autoencoder on tabular data
 https://github.com/lschmiddey/Autoencoder
@@ -5113,6 +5146,12 @@ https://iskcondesiretree.com/profiles/blogs/bhagvat-gita-mahatmya-glories-by-adi
 The Science of Self-Realization
 https://vedabase.io/en/library/ssr/
 
+Response Model - FastAPI
+https://fastapi.tiangolo.com/tutorial/response-model/?h=response_model#response_model_include-and-response_model_exclude
+
+FULL FastAPI project with me!! - YouTube
+https://www.youtube.com/watch?v=kyJNbSUz86w
+
 Rascal! Surrender! by Srila Prabhupada (SB 01.08.35) at Mayapura, October 15, 1974 - YouTube
 https://www.youtube.com/watch?v=1-c339Z0Juk&list=PLoy2PXYJEg98tj4vpNw6XUUNfidCsV54k&index=2
 
@@ -5135,7 +5174,7 @@ Srimad Bhagavatham class by HG Gauranga Prabhu - Session 1 - May 25th 2018 - You
 https://www.youtube.com/watch?v=WIjsfxwePc0&list=PLhU9A87YV4gVJQS96p5fjq2RRHdeZi2Ct
 
 Srimad-Bhagavatam 01.01 Purports - Questions by the Sages - YouTube
-https://www.youtube.com/watch?v=W9OSSPtfc6E&list=PLvRIsRHyTI9lmMFui2aM3jCrPW_BcK97r&index=3
+https://www.youtube.com/watch?v=W9OSSPtfc6E&list=PLvRIsRHyTI9lmMFui2aM3jCrPW_BcK97r&index=18
 
 Srimad-Bhagavatam 01.13 - Dhrtarastra Quits Home - YouTube
 https://www.youtube.com/watch?v=hKD5Ihg_4PY&list=PL85542C09D7C87AA0&index=13
@@ -5149,38 +5188,200 @@ https://www.youtube.com/watch?v=vX2R0OZJcGQ
 Bhagvat Gita Mahatmya (Glories) by Adi Shankaracharya - Blog - ISKCON Desire Tree | IDT
 https://iskcondesiretree.com/profiles/blogs/bhagvat-gita-mahatmya-glories-by-adi-shankaracharya
 
-Raoul Pal Ethereum WARNING! A Crash Is Coming in December - Here's Why. Latest Crypto Interview - YouTube
-https://www.youtube.com/watch?v=tUvb-yUK5Os
-
-Raoul Pal Metaverse & Ethereum - Top 4 Metaverse Stocks and Crypto To Buy NOW (100x) - YouTube
-https://www.youtube.com/watch?v=6zk461I6XGc
-
-XRP - JP Morgan Reveals THIS About Ripple Vs The SEC Lawsuit! - YouTube
-https://www.youtube.com/watch?v=qZIpEPNjycQ
-
-Edward Snowden Just Revealed XRP Is SECRET Project US Government! (Xrp Price Prediction) - YouTube
-https://www.youtube.com/watch?v=dZDe5NUV26o
-
 convolutional VAE in pytorch github - Google Search
 https://www.google.com/search?q=convolutional+VAE+in+pytorch+github&rlz=1C1CHBD_enSG745SG745&ei=ovm6Ycz3F_jYz7sPuLSWwAQ&ved=0ahUKEwjM0Pic9Of0AhV47HMBHTiaBUgQ4dUDCA4&uact=5&oq=convolutional+VAE+in+pytorch+github&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzoHCAAQRxCwA0oECEEYAEoECEYYAFC2DVjEHmDMImgCcAB4AIABYIgBmQKSAQE0mAEAoAEByAEIwAEB&sclient=gws-wiz-serp
 
-vae_conv/mvae_conv.py at master · coolvision/vae_conv · GitHub
-https://github.com/coolvision/vae_conv/blob/master/mvae_conv.py
+GitHub - coolvision/vae_conv: Convolutional variational autoencoder in PyTorch
+https://github.com/coolvision/vae_conv
 
 conv-vae/train.py at master · aidiary/conv-vae · GitHub
 https://github.com/aidiary/conv-vae/blob/master/train.py
 
-GitHub - shivakanthsujit/VAE-PyTorch: Variational Autoencoders trained on the SVHN and FashionMNIST data-sets implemented in PyTorch
-https://github.com/shivakanthsujit/VAE-PyTorch
+VAE-PyTorch/VAE.ipynb at master · shivakanthsujit/VAE-PyTorch · GitHub
+https://github.com/shivakanthsujit/VAE-PyTorch/blob/master/VAE.ipynb
 
-pytorch-VAE-models/Disentangled VAE (mnist).ipynb at master · genyrosk/pytorch-VAE-models · GitHub
-https://github.com/genyrosk/pytorch-VAE-models/blob/master/Disentangled%20VAE%20(mnist).ipynb
+GitHub - genyrosk/pytorch-VAE-models: pytorch VAE models: dense, convolution + upsampling, convolution + deconvolution, super-resolution
+https://github.com/genyrosk/pytorch-VAE-models
 
 Building a Convolutional VAE in PyTorch | by Ta-Ying Cheng | Towards Data Science
 https://towardsdatascience.com/building-a-convolutional-vae-in-pytorch-a0f54c947f71
 
 2109.08203.pdf
 https://arxiv.org/pdf/2109.08203.pdf
+
+torch.nn.modules.rnn — PyTorch 1.10 documentation
+https://pytorch.org/docs/stable/_modules/torch/nn/modules/rnn.html#RNN
+
+Tutorial 8: Deep Autoencoders — PyTorch Lightning 1.6.0dev documentation
+https://pytorch-lightning.readthedocs.io/en/latest/notebooks/course_UvA-DL/08-deep-autoencoders.html
+
+1711.00937.pdf
+https://arxiv.org/pdf/1711.00937.pdf
+
+pytorch-vq-vae/vq-vae.ipynb at master · zalandoresearch/pytorch-vq-vae · GitHub
+https://github.com/zalandoresearch/pytorch-vq-vae/blob/master/vq-vae.ipynb
+
+GitHub - ritheshkumar95/pytorch-vqvae: Vector Quantized VAEs - PyTorch Implementation
+https://github.com/ritheshkumar95/pytorch-vqvae
+
+2007.03898.pdf
+https://arxiv.org/pdf/2007.03898.pdf
+
+GitHub - NVlabs/NVAE: The Official PyTorch Implementation of "NVAE: A Deep Hierarchical Variational Autoencoder" (NeurIPS 2020 spotlight paper)
+https://github.com/NVlabs/NVAE
+
+Tutorial 10: Adversarial Attacks (Part 1) - YouTube
+https://www.youtube.com/watch?v=uidLtkhZFwY&list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA&index=26
+
+uvadlc_notebooks/AE_CIFAR10.ipynb at master · phlippe/uvadlc_notebooks · GitHub
+https://github.com/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial9/AE_CIFAR10.ipynb
+
+GitHub - fchollet/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+https://github.com/fchollet/deep-learning-with-python-notebooks
+
+Convolutional autoencoder for image denoising
+https://keras.io/examples/vision/autoencoder/
+
+GitHub - fchollet/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+https://github.com/fchollet/deep-learning-with-python-notebooks
+
+Turn a Convolutional Autoencoder into a Variational Autoencoder - PyTorch Forums
+https://discuss.pytorch.org/t/turn-a-convolutional-autoencoder-into-a-variational-autoencoder/78084
+
+pytorch-vae/vae-cnn.ipynb at master · sksq96/pytorch-vae · GitHub
+https://github.com/sksq96/pytorch-vae/blob/master/vae-cnn.ipynb
+
+GitHub - rasbt/deeplearning-models: A collection of various deep learning architectures, models, and tips
+https://github.com/rasbt/deeplearning-models
+
+unet-pytorch/model.py at master · jaxony/unet-pytorch · GitHub
+https://github.com/jaxony/unet-pytorch/blob/master/model.py
+
+model_checkpoint — PyTorch Lightning 1.5.9 documentation
+https://pytorch-lightning.readthedocs.io/en/stable/api/pytorch_lightning.callbacks.model_checkpoint.html
+
+Open Source monday.com Alternatives: 25+ Similar Task Management Tools and Todo List Managers | AlternativeTo
+https://alternativeto.net/software/dapulse/?license=opensource
+
+resnet variational autoencoder github - Google Search
+https://www.google.com/search?q=resnet+variational+autoencoder+github&rlz=1C1CHBD_enSG745SG745&ei=H8zuYenCBJ3Wz7sPrIezsAc&ved=0ahUKEwipzpSR4Mr1AhUd63MBHazDDHYQ4dUDCA4&uact=5&oq=resnet+variational+autoencoder+github&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BAgAEA1KBAhBGABKBAhGGABQpwxY2CNg_yhoAXACeACAAVCIAc4FkgECMTKYAQCgAQHIAQjAAQE&sclient=gws-wiz
+
+GitHub - karstenkreis/flow_vae: Variational Autoencoder with Inverse Autoregressive Flow
+https://github.com/karstenkreis/flow_vae
+
+VAE-ResNet18-PyTorch/model.py at master · julianstastny/VAE-ResNet18-PyTorch · GitHub
+https://github.com/julianstastny/VAE-ResNet18-PyTorch/blob/master/model.py
+
+GitHub - farrell236/ResNetAE
+https://github.com/farrell236/ResNetAE
+
+GitHub - arnaghosh/Auto-Encoder: Auto-encoder on torch - trying out the various AEs
+https://github.com/arnaghosh/Auto-Encoder
+
+ResNetVAE/modules.py at 0befd92878da5927027c600bd630b23f914fd01c · hsinyilin19/ResNetVAE · GitHub
+https://github.com/hsinyilin19/ResNetVAE/blob/0befd92878da5927027c600bd630b23f914fd01c/modules.py
+
+autoencoders/vae.ipynb at master · jan-xu/autoencoders · GitHub
+https://github.com/jan-xu/autoencoders/blob/master/vae/vae.ipynb
+
+Resnet Variational autoencoder for image reconstruction · GitHub
+https://gist.github.com/bmabir17/990762d11cd587c05ddfa211d07829b6
+
+Model Zoo - PyTorch-VAE PyTorch Model
+https://modelzoo.co/model/pytorch-vae
+
+04.2 – Recurrent neural networks, vanilla and gated (LSTM) - YouTube
+https://www.youtube.com/watch?v=5KSGNomPJTE&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&index=18
+
+LSTM is dead. Long Live Transformers! - YouTube
+https://www.youtube.com/watch?v=S27pHKBEp30
+
+DETR: End-to-End Object Detection with Transformers (Paper Explained) - YouTube
+https://www.youtube.com/watch?v=T35ba_VXkMY
+
+Practical Statistics for Data Scientists - Chapter 1 - Exploratory Data Analysis - YouTube
+https://www.youtube.com/watch?v=wwsizzg6UjU&list=PL-u09-6gP5ZNd6AhULnQHr6ZsF15qy4D0
+
+Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition - YouTube
+https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=2
+
+Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/chap1.html
+
+MIT Introduction to Deep Learning | 6.S191 - YouTube
+https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=2
+
+UpSampling2D layer
+https://keras.io/api/layers/reshaping_layers/up_sampling2d/
+
+keras/up_sampling2d.py at master · keras-team/keras · GitHub
+https://github.com/keras-team/keras/blob/master/keras/layers/reshaping/up_sampling2d.py
+
+Upsample — PyTorch 1.10 documentation
+https://pytorch.org/docs/stable/generated/torch.nn.Upsample.html
+
+GitHub - pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+https://github.com/pytorch/pytorch
+
+sota convolutional Variational autoencoder for image reconstruction - Google Search
+https://www.google.com/search?q=sota+convolutional+Variational+autoencoder+for+image+reconstruction&rlz=1C1CHBD_enSG745SG745&ei=iGr-Yb2nJezXz7sP4_-d0A4&ved=0ahUKEwi9i8yoxej1AhXs63MBHeN_B-oQ4dUDCA4&uact=5&oq=sota+convolutional+Variational+autoencoder+for+image+reconstruction&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABKBAhGGABQ3ApYkSJgxCRoAXAAeACAAVCIAbQCkgEBNZgBAKABAcgBCMABAQ&sclient=gws-wiz
+
+Super-resolution Variational Auto-Encoders
+https://arxiv.org/pdf/2006.05218.pdf
+
+GitHub - ioangatop/srVAE: VAE with RealNVP prior and Super-Resolution VAE in PyTorch. Code release for https://arxiv.org/abs/2006.05218.
+https://github.com/ioangatop/srVAE
+
+Tutorial 9: Deep Autoencoders — UvA DL Notebooks v1.1 documentation
+https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial9/AE_CIFAR10.html
+
+| VAE architecture and reconstruction examples. (A) VAE architecture.... | Download Scientific Diagram
+https://www.researchgate.net/figure/VAE-architecture-and-reconstruction-examples-A-VAE-architecture-The-encoder-and-the_fig2_330521293
+
+(PDF) Variational Autoencoder: An Unsupervised Model for Modeling and Decoding fMRI Activity in Visual Cortex
+https://www.researchgate.net/publication/330521293_Variational_Autoencoder_An_Unsupervised_Model_for_Modeling_and_Decoding_fMRI_Activity_in_Visual_Cortex
+
+GitHub - hsinyilin19/ResNetVAE at 0befd92878da5927027c600bd630b23f914fd01c
+https://github.com/hsinyilin19/ResNetVAE/tree/0befd92878da5927027c600bd630b23f914fd01c
+
+torchvision.datasets — Torchvision 0.8.1 documentation
+https://pytorch.org/vision/0.8/datasets.html
+
+GitHub - chrischute/real-nvp: Implementation of Real NVP in PyTorch
+https://github.com/chrischute/real-nvp
+
+1605.08803.pdf
+https://arxiv.org/pdf/1605.08803.pdf
+
+A.I. Experiments: Visualizing High-Dimensional Space - YouTube
+https://www.youtube.com/watch?v=wvsE8jm1GzE
+
+Visualizing High-Dimensional Space by Daniel Smilkov, Fernanda Viégas, Martin Wattenberg & the Big Picture team at Google - Experiments with Google
+https://experiments.withgoogle.com/visualizing-high-dimensional-space
+
+GitHub - reoneo97/vae-playground: Implementation of Variational Autoencoders using Pytorch Lightning
+https://github.com/reoneo97/vae-playground
+
+Beginner guide to Variational Autoencoders (VAE) with PyTorch Lightning | by Reo Neo | Towards Data Science
+https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-13dbc559ba4b
+
+Beginner guide to Variational Autoencoders (VAE) with PyTorch Lightning (Part 2) | by Reo Neo | Towards Data Science
+https://towardsdatascience.com/beginner-guide-to-variational-autoencoders-vae-with-pytorch-lightning-part-2-6b79ad697c79
+
+Arxiv Insights - YouTube
+https://www.youtube.com/c/ArxivInsights/videos
+
+Visualizing hidden layers in convolutional neural networks in Keras (Python) - YouTube
+https://www.youtube.com/watch?v=zpyiW45nn3I
+
+GitHub - utkuozbulak/pytorch-cnn-visualizations: Pytorch implementation of convolutional neural network visualization techniques
+https://github.com/utkuozbulak/pytorch-cnn-visualizations
+
+6.1 Convolutional Neural Network (CNN) models - YouTube
+https://www.youtube.com/watch?v=EPFQ3z2xIQ8
+
+L1.0 Intro to Deep Learning, Course Introduction - YouTube
+https://www.youtube.com/watch?v=1nqCZqDYPp0&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51
 
 Web3 Foundation | Web3 Foundation Nurtures and stewards technologies and applications in the fields of decentralized web software protocols
 https://web3.foundation/
@@ -5227,14 +5428,383 @@ https://www.youtube.com/watch?v=X48VuDVv0do
 Let's Build a Fast, Modern Python API with FastAPI - YouTube
 https://www.youtube.com/watch?v=sBVb4IB3O_U
 
+Docker Build: Dockerizing a Python App with FastAPI - YouTube
+https://www.youtube.com/watch?v=qQNGw_m8t0Y
+
 Demystifying Python's Async and Await Keywords - YouTube
 https://www.youtube.com/watch?v=F19R_M4Nay4
-
-Project Generation - Template - FastAPI
-https://fastapi.tiangolo.com/project-generation/
 
 fastapi project generator - YouTube
 https://www.youtube.com/results?search_query=fastapi+project+generator
 
-061: Interpolation, Extrapolation and Linearisation (Prof. Yann LeCun, Dr. Randall Balestriero)
+061: Interpolation, Extrapolation and Linearisation (Prof. Yann LeCun, Dr. Randall Balestriero) - YouTube
 https://www.youtube.com/watch?v=86ib0sfdFtw
+
+FARM Stack Course ( FastAPI , React js , mongoDB ) in 1 Hour [Presented in FreeCodeCamp as well] - YouTube
+https://www.youtube.com/watch?v=oGwszbCH5Z4
+
+Smarter FastAPI Through Tooling - YouTube
+https://www.youtube.com/watch?v=r6fBoBTRfT4
+
+How to Build Async API in Python with FastAPI - YouTube
+https://www.youtube.com/watch?v=IZUjJ3rPY1E
+
+Saving and Loading Models — PyTorch Tutorials 1.10.1+cu102 documentation
+https://pytorch.org/tutorials/beginner/saving_loading_models.html
+
+Saving and loading a general checkpoint in PyTorch — PyTorch Tutorials 1.10.1+cu102 documentation
+https://pytorch.org/tutorials/recipes/recipes/saving_and_loading_a_general_checkpoint.html
+
+Build and Deploy a Fully Responsive Modern UI/UX Website in React JS - YouTube
+https://www.youtube.com/watch?v=LMagNcngvcU
+
+Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI - YouTube
+https://www.youtube.com/watch?v=GDa8kZLNhJ4
+
+Home Page - SGPFalcon
+https://ijonlinepro.sg.hpicorp.net/sgpfalcon/
+
+Periyaazhvaar Thirumozhi - Naangaam Pathu - YouTube
+https://www.youtube.com/watch?v=m7Z5JzN8Yrk&list=OLAK5uy_nERSUuhWoZNoN7xsR4eRpHclUqZT0-37g&index=37
+
+Build and Deploy a Fullstack Responsive Portfolio Website | ULTIMATE Step By Step Tutorial 2022 - YouTube
+https://www.youtube.com/watch?v=3HNyXCPDQ7Q
+
+Image similarity using Deep CNN and Curriculum Learning
+https://arxiv.org/ftp/arxiv/papers/1709/1709.08761.pdf
+
+GitHub - lets-try-again/image_comparison
+https://github.com/lets-try-again/image_comparison
+
+GitHub - MinxZ/fashion_mnist: Image similarity on Fashion MNIST
+https://github.com/MinxZ/fashion_mnist
+
+thankyousuccess
+https://www.myvi.in/prepaid/recharge-thank-you
+
+L01.2 Sample Space - YouTube
+https://www.youtube.com/watch?v=iQ2edOqEQAs&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&index=4
+
+Airtel Payments
+https://www.airtel.in/pay/status?omv=v2&orderId=6899356328517476352&pgId=6899356329883181056&start=500&end=5000&interval=500&redirectionDestination=THANK_YOU&lob=PREPAID&paymentStatus=PAYMENT_SUCCESS
+
+INTERNAL ASSERT FAILED at "../aten/src/ATen/MapAllocator.cpp":263 · Issue #67864 · pytorch/pytorch · GitHub
+https://github.com/pytorch/pytorch/issues/67864
+
+GitHub - seonho-park/PGN_anomaly_detection: Prior Generating Networks for Anomaly Detection
+https://github.com/seonho-park/PGN_anomaly_detection
+
+Amarendra Dāsa Official - YouTube
+https://www.youtube.com/c/PunyamKrsnaKathamritam/videos
+
+Previous PyTorch Versions | PyTorch
+https://pytorch.org/get-started/previous-versions/
+
+Evidently AI - Open-Source Machine Learning Monitoring
+https://evidentlyai.com/
+
+GitHub - evidentlyai/evidently: Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
+https://github.com/evidentlyai/evidently?
+
+train using autoencoders for image classification - Google Search
+https://www.google.com/search?q=train+using+autoencoders+for+image+classification&rlz=1C1CHBD_enSG745SG745&oq=train+using+autoencoder+for+ima&aqs=chrome.1.69i57j33i22i29i30l2.11018j0j7&sourceid=chrome&ie=UTF-8
+
+Intro to Autoencoders  |  TensorFlow Core
+https://www.tensorflow.org/tutorials/generative/autoencoder
+
+Deep Learning
+https://www.deeplearningbook.org/
+
+A Deep Convolutional Denoising Autoencoder for Image Classification | by Søren L Kristiansen | Medium
+https://medium.com/@sorenlind/a-deep-convolutional-denoising-autoencoder-for-image-classification-26c777d3b88e
+
+BengioNips2006All.pdf
+http://www.iro.umontreal.ca/~lisa/pointeurs/BengioNips2006All.pdf
+
+Train Stacked Autoencoders for Image Classification - MATLAB & Simulink Example
+https://www.mathworks.com/help/deeplearning/ug/train-stacked-autoencoders-for-image-classification.html
+
+Autoencoder Feature Extraction for Classification
+https://machinelearningmastery.com/autoencoder-for-classification/
+
+Feature Maps Visualization Of CNN | Interpretation Of Output Of Conv2D And Maxpooling Layer - YouTube
+https://www.youtube.com/watch?v=i3qjgJgQqgg
+
+A Deep Convolutional Denoising Autoencoder for Image Classification github - Google Search
+https://www.google.com/search?q=A+Deep+Convolutional+Denoising+Autoencoder+for+Image+Classification+github&rlz=1C1CHBD_enSG745SG745&oq=A+Deep+Convolutional+Denoising+Autoencoder+for+Image+Classification+github&aqs=chrome..69i57j69i64l3.5972j0j7&sourceid=chrome&ie=UTF-8
+
+convolutional-autoencoder · GitHub Topics · GitHub
+https://github.com/topics/convolutional-autoencoder
+
+GitHub - ekremcet/AEFPNC: Image Denoising Using Deep Convolutional Autoencoder with Feature Pyramids
+https://github.com/ekremcet/AEFPNC
+
+GitHub - AdneneBoumessouer/MVTec-Anomaly-Detection at f16ab7c5c56376a0f0ed129bebf992f9df92f496
+https://github.com/AdneneBoumessouer/MVTec-Anomaly-Detection/tree/f16ab7c5c56376a0f0ed129bebf992f9df92f496
+
+mvtec_ad.pdf
+https://www.mvtec.com/fileadmin/Redaktion/mvtec.com/company/research/datasets/mvtec_ad.pdf
+
+1606.08921.pdf
+https://arxiv.org/pdf/1606.08921.pdf
+
+GitHub - yjn870/REDNet-pytorch: PyTorch Implementation of image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections (NIPS 2016)
+https://github.com/yjn870/REDNet-pytorch
+
+Ādi-līlā
+https://vedabase.io/en/library/cc/adi/
+
+Śrīmad-Bhāgavatam (Bhāgavata Purāṇa)
+https://vedabase.io/en/library/sb/
+
+Mukunda-mala-stotra Verse 1
+https://vedabase.net/mm/1/en
+
+Krishna Lila In One Verse Part 1 of 2 - HG Amarendra Prabhu - YouTube
+https://www.youtube.com/watch?v=k2bVDSXylkQ
+
+"Ekadasi - Scientific and Spiritual Importance" by H.G. Amarendra Das - 2/18/2016 - YouTube
+https://www.youtube.com/watch?v=XcUYf7kffQU
+
+"Srila Prabhupada - The Modern Messenger of Bhagavad Gita" by Amarnath Prabhu - YouTube
+https://www.youtube.com/watch?v=ybLexF0BuQc
+
+The Birth of Lord Krishna : HG Amarendra Das - YouTube
+https://www.youtube.com/watch?v=qYt2bOd5XJM
+
+Kirtan from The Art Of Chanting Retreat At Hare Krishna Valley - HG Amarendra Prabhu - YouTube
+https://www.youtube.com/watch?v=aCpRXUJWyAU
+
+Sri Caitanya-caritamrta, Adi 06 - The Glories of Sri Advaita Acarya - YouTube
+https://www.youtube.com/watch?v=UIRy0A_KVz4&list=PLD752C1DEBD3FA65F&index=7
+
+Understanding the Vedic Universe - YouTube
+https://www.youtube.com/watch?v=6-2zY5les9k
+
+Invisible realms in the Vedic Hindu Universe - for the Bhaktivedanta Institute for Higher Studies - YouTube
+https://www.youtube.com/watch?v=8vlOREjaRBo
+
+4 Billion Yr Astronomy Knowledge of Ancient India FULL DOCUMENTARY Vedic Civilization Lost Science - YouTube
+https://www.youtube.com/watch?v=XbRDqZeQRds
+
+Never Do Another Crunch Again!! Do this Primal Core Sequence [9 minutes] - YouTube
+https://www.youtube.com/watch?v=ZLOC1-3If2c&list=PLYz7rudUmfJrCYC8SfIQB9R7mJCx5qlCV&index=5
+
+thinklab-sg
+http://thinklab-sg:9080/tree/pwax-pca/models/Consolidated_components
+
+Need to burn fat fast? Do this 1 Exercise - YouTube
+https://www.youtube.com/watch?v=3kebD7OIoCc
+
+Introduction to the Tutorials - YouTube
+https://www.youtube.com/watch?v=oluO8JiC7EA&list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA
+
+Astronomy of the Bhagavat Purana- SUMMARY VERSION (cosmology) - YouTube
+https://www.youtube.com/watch?v=Rd5myhFIa-A
+
+Srimad Bhagavatam - OUR TRUE FRIEND | part 1 | HG Amarendra das | ISKCON Columbus - YouTube
+https://www.youtube.com/watch?v=tzoW_z_IT14
+
+Glories of Bhishmadeva - Part 3 | Amarendra Dāsa | ISKCON Vedic Cultural Center, Seattle - YouTube
+https://www.youtube.com/watch?v=zSmFhtqaLG8
+
+Glories of Srimad Bhagvatam | Part 2 | ISKCON Sydney - YouTube
+https://www.youtube.com/watch?v=aMkQJeWRBxc
+
+Lord Chaitanya The Golden Raincloud of Mercy | ISKCON of New Jersey (Towaco Temple) | Amarendra Dasa - YouTube
+https://www.youtube.com/watch?v=jo8pZ8NzcJk
+
+CUDA semantics — PyTorch 1.11.0 documentation
+https://pytorch.org/docs/stable/notes/cuda.html#cuda-memory-management
+
+Krishna Flute Music For Positive Energy RELAXING MUSIC YOUR Mind Beautiful Music For A New Day - YouTube
+https://www.youtube.com/watch?v=9Uyeoy2p9bI
+
+Meditative lord krishna flute music for positive Energy , Relaxing body and mind,meditation,yoga 43 - YouTube
+https://www.youtube.com/watch?v=byaVF9RwyR0
+
+SHOCKING!!! 2027 Will Be The Last Chance? Only Those Will Survive Who Do This|Sadhguru - YouTube
+https://www.youtube.com/watch?v=KKyLNq09zmM
+
+இப்படி ஒரு அப்பா எல்லாருக்கும் வேணும் | Enemy Full Movie | Vishal | Arya | Mirnalini Ravi - YouTube
+https://www.youtube.com/watch?v=aajAIo1OfjU&list=PLwtDKTQpjlC9a_G4qwiktGHbn_w66jeMU
+
+Raspberry pi using LIDAR sensor - YouTube
+https://www.youtube.com/watch?v=t0ud9HTYjMI
+
+GitHub - makertut/raspberry-rplidar: How to use DFRObot Slamtec RPLIDAR A2 360 Laser Range Scanner with Raspberry Pi
+https://github.com/makertut/raspberry-rplidar
+
+2D LiDAR segmentation and tracking - YouTube
+https://www.youtube.com/watch?v=RJBi5nJXs3o
+
+Tracking People by a Mobile Robot from 2D LIDAR - YouTube
+https://www.youtube.com/watch?v=Qa6eEJzUlRg
+
+A Lidar and Vision-based Approach for Pedestrian and Vehicle Detection and Tracking
+https://home.isr.uc.pt/~cpremebida/files_cp/A%20Lidar%20and%20Vision-based%20Approach%20for%20Pedestrian%20and%20Vehicle%20Detection%20and%20Tracking.pdf
+
+PeTra's new release: Tracking People by using a 2D LIDAR - YouTube
+https://www.youtube.com/watch?v=GCI7lDXQLAM
+
+People Detection and Tracking Using 2D LIDAR Sensors - YouTube
+https://www.youtube.com/results?search_query=People+Detection+and+Tracking+Using+2D+LIDAR+Sensors
+
+Online Obstacle Tracking and Classification using 2D LIDAR scans - YouTube
+https://www.youtube.com/watch?v=cz5X8Vm0s9s
+
+Lidar (Raspberry Pi) - YouTube
+https://www.youtube.com/watch?v=yLPM2BVQ2Ws
+
+rviz - YouTube
+https://www.youtube.com/results?search_query=rviz
+
+Product Showcase: SLAMTEC Mapper Kits - YouTube
+https://www.youtube.com/watch?v=6s1GsHi6AgA
+
+lidar-object-tracking-python/sample.py at master · jangj8523/lidar-object-tracking-python · GitHub
+https://github.com/jangj8523/lidar-object-tracking-python/blob/master/sample.py
+
+Welcome to RPLidar’s documentation! — RPLidar 0.9.1 documentation
+https://rplidar.readthedocs.io/en/latest/#
+
+இந்தியாவை மிரட்டிய அமெரிக்கா: திருப்பி அடித்த இந்தியா | India Snubs America For Threatening | Bala - YouTube
+https://www.youtube.com/watch?v=zpM0TDZEsps
+
+Time series Anomaly Detection using a Variational Autoencoder (VAE) - Things Solver
+https://thingsolver.com/time-series-anomaly-detection-using-a-variational-autoencoder-vae/
+
+GitHub - Slamtec/rplidar_ros
+https://github.com/Slamtec/rplidar_ros
+
+YouTube
+https://www.youtube.com/
+
+simulating SLAM from scratch using python | introduction - YouTube
+https://www.youtube.com/watch?v=2GJuEIh4xGo&list=PL9RPomGb9IpRJLw5UTdSy4eJeoLrwNcfC
+
+GitHub - AtsushiSakai/PythonRobotics: Python sample codes for robotics algorithms.
+https://github.com/AtsushiSakai/PythonRobotics#extended-kalman-filter-localization
+
+GitHub - anil2k/YOLOv5-DeepSort-Object-Tracking-PyTorch: Implimentation of YOLOv5 and DeepSort in Pytorch for object tracking
+https://github.com/anil2k/YOLOv5-DeepSort-Object-Tracking-PyTorch
+
+Yolov5 Deepsort Pytorch - YouTube
+https://www.youtube.com/watch?v=TofMADTFkjI
+
+NFL Helmet Assignment
+https://etrain.xyz/en/posts/nfl-helmet-assignment
+
+helmet-assignment/helmet_assignment at main · RobMulla/helmet-assignment · GitHub
+https://github.com/RobMulla/helmet-assignment/tree/main/helmet_assignment
+
+GitHub - mikel-brostrom/Yolov5_DeepSort_Pytorch: Real-time multi-object tracker using YOLO v5 and deep sort
+https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch
+
+Online Obstacle Tracking and Classification using 2D LIDAR scans - YouTube
+https://www.youtube.com/watch?v=cz5X8Vm0s9s
+
+GitHub - praveen-palanisamy/multiple-object-tracking-lidar: C++ implementation to Detect, track and classify multiple objects using LIDAR scans or point cloud
+https://github.com/praveen-palanisamy/multiple-object-tracking-lidar
+
+India will be shortly working on alternative Fuel which will help save lots of $ - Uttam Kumar - YouTube
+https://www.youtube.com/watch?v=vg4O_zc_ZD4
+
+rplidar_sdk/ChooseConnectionDlg.h at master · Slamtec/rplidar_sdk · GitHub
+https://github.com/Slamtec/rplidar_sdk/blob/master/app/frame_grabber/ChooseConnectionDlg.h
+
+GitHub - Slamtec/rplidar_ros
+https://github.com/slamtec/rplidar_ros
+
+GitHub - Slamtec/sllidar_ros2
+https://github.com/Slamtec/sllidar_ros2
+
+RPLIDAR A3M1 lidar visualizations - YouTube
+https://www.youtube.com/watch?v=MQhYTqz40xI
+
+Electronics and Computer Science Club · GitHub
+https://github.com/knei-knurow
+
+GitHub - knei-knurow/lidar-scan: Grabbing point clouds from RPLIDAR A3.
+https://github.com/knei-knurow/lidar-scan
+
+Exam Hack | CIE AS Maths | S1 | Permutation and Combination Question - YouTube
+https://www.youtube.com/watch?v=SsVlQN1NGqA
+
+A-Level Maths: M1-03 [Probability: Finding Probabilities from a Venn Diagram] - YouTube
+https://www.youtube.com/watch?v=KU2jzHmWvgc&list=PLg2tfDG3Ww4tDbU2TWgQgnyoP3Do0p7qU&index=7
+
+A-Level Maths: M2-02 Probability: Conditional Probability Formulae - YouTube
+https://www.youtube.com/watch?v=6iySd1rMDxs&list=PLg2tfDG3Ww4vk5R73a83vID40zDS1Q1tl&index=3
+
+OCR MEI Statistics 1 4.12 Permutations and Combinations: An Exam-Style Question - YouTube
+https://www.youtube.com/watch?v=2lMEkyaieac&list=PLLvLx9Pi008LCzUuV48HmXi45xlzKt2ch&index=12
+
+Srimad-Bhagavatam 01.15 - The Pandavas Retire Timely - YouTube
+https://www.youtube.com/watch?v=i7zv3CQ09wA&list=PL85542C09D7C87AA0&index=16
+
+Your Favorite Protein Salad Recipe - YouTube
+https://www.youtube.com/watch?v=rQblUItn-m8
+
+THINK AND GROW RICH FULL AUDIOBOOK IN TAMIL l சிந்தனை மூலம் செல்வம் l tamil audio books - YouTube
+https://www.youtube.com/watch?v=0LvqF0K0yl8
+
+Exploring How Computers Work - YouTube
+https://www.youtube.com/watch?v=QZwneRb-zqA&list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq&index=2
+
+8-bit computer update - YouTube
+https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU
+
+Lecture Videos | Performance Engineering of Software Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare
+https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/video_galleries/lecture-videos/
+
+1. Introduction and Matrix Multiplication - YouTube
+https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
+
+Super Fast Ray Casting in Tiled Worlds using DDA - YouTube
+https://www.youtube.com/watch?v=NbSee-XM7WA&list=PLrOv9FMX8xJEEQFU_eAvYTsyudrewymNl&index=8
+
+Lists in Python - Advanced Python 01 - Programming Tutorial - YouTube
+https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2
+
+Millennials’ Favorite Fruit: Forecasting Avocado Prices with ARIMA Models | by Sean Holland | Towards Data Science
+https://towardsdatascience.com/millennials-favorite-fruit-forecasting-avocado-prices-with-arima-models-5b46e4e0e914#:~:text=However%2C%20the%20model%20predicts%20that,decrease%20of%20about%207%20percent.
+
+Avocado Prices Analysis and Prediction | Kaggle
+https://www.kaggle.com/code/yemregundogmus/avocado-prices-analysis-and-prediction/notebook
+
+Avocado Price Prediction | Kaggle
+https://www.kaggle.com/code/anitha136/avocado-price-prediction/notebook
+
+A Comparative Evaluation of Unsupervised Anomaly Detection Algorithms for Multivariate Data
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152173
+
+C++ Programming Course - Beginner to Advanced - YouTube
+https://www.youtube.com/watch?v=8jLOx1hD3_o
+
+STRONGEST BELLY FAT BURNER DRINK LOSE 15KG | 30LBS IN 2 WEEKS - YouTube
+https://www.youtube.com/watch?v=lt7VvRULHP8
+
+3 fat burning drink - weight loss recipes | fat burning tea | homemade drinks to lose belly fat - YouTube
+https://www.youtube.com/watch?v=zAC9xdbQ3sc
+
+Google
+https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjd66vk-rD3AhXfTWwGHVZSBR4QPAgI
+
+Hands-on Anomaly Detection with Variational Autoencoders | by Alon Agmon | Towards Data Science
+https://towardsdatascience.com/hands-on-anomaly-detection-with-variational-autoencoders-d4044672acd5
+
+anomaly_det/AnomalyDetectorsVAE-KDD-original.ipynb at master · a-agmon/anomaly_det · GitHub
+https://github.com/a-agmon/anomaly_det/blob/master/AnomalyDetectorsVAE-KDD-original.ipynb
+
+When BERT Plays the Lottery, All Tickets Are Winning | by SoonChang | Nov, 2021 | Medium | Medium
+https://pohsoonchang.medium.com/when-bert-plays-the-lottery-all-tickets-are-winning-96fc9eb13be6
+
+An Introduction to the Implementation of Optuna, a Hyperparameter Optimization Framework | by Masashi SHIBATA | Optuna | Medium
+https://medium.com/optuna/an-introduction-to-the-implementation-of-optuna-a-hyperparameter-optimization-framework-33995d9ec354
+
+Tensordot — Multidimensional Dot Product — Explained | by Dennis Alexander Morozov | Analytics Vidhya | Medium
+https://medium.com/analytics-vidhya/tensordot-explained-6673cfa5697f
+
+Multivariate parameters Anomaly Detection - Google Scholar
+https://scholar.google.com.sg/scholar?q=Multivariate+parameters+Anomaly+Detection&hl=en&as_sdt=0&as_vis=1&oi=scholart
